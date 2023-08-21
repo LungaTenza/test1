@@ -127,4 +127,4 @@ if __name__=='__main__':
                     speak(result)
                 except:
                     speak('unable to compute')
-        
+        shdg
